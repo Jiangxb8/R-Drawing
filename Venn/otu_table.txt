@@ -1,0 +1,10 @@
+a	c1	c2	c3
+gene_2	11	22	33
+gene_3		0	0
+gene_4	3		5
+gene_5	0	5	6
+gene_7	5	6	7
+gene_8	6	0	0
+gene_9	0	8	9
+gene_10	8	9	0
+gene_11	9	10	0

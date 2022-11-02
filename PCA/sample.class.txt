@@ -1,0 +1,10 @@
+Sample	Group
+Control_1	Control
+Control_2	Control
+Control_3	Control
+a_1	a
+a_2	a
+a_3	a
+b_1	b
+b_2	b
+b_3	b
